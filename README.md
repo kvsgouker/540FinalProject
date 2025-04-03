@@ -1,6 +1,7 @@
 # Project 6: Global Theme Park Attendance & Ride Analysis
 
-This project builds a complete, cleaned, and enriched dataset of amusement parks and roller coasters by integrating multiple real-world data sources: <br>
+This project builds a complete, cleaned, and enriched dataset of amusement parks and roller coasters by integrating multiple real-world data sources:
+
 • Attendance data (2006–2022) from Wikipedia and Queue Times <br>
 • Ride characteristics from the Roller Coaster Database (RCDB) <br>
 • Park metadata via geolocation and Queue Times API <br>
