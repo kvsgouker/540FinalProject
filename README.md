@@ -1,4 +1,4 @@
-# Project 6: Global Theme Park Attendance & Ride Analysis
+# Global Theme Park Attendance & Ride Analysis
 
 This project integrates and analyzes multiple datasets related to global theme park attendance and ride features. By combining data from Queue-Times, the Roller Coaster Database (RCDB), and Wikipedia, it builds a unified, structured dataset to explore patterns in park popularity, ride characteristics, and visitor behavior.
 
