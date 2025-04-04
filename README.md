@@ -51,5 +51,5 @@ The goal was to merge and clean complex, messy data from different sources to an
 
 ## Author
 
-Kyle Salgado-Gouker
+Kyle Salgado-Gouker <br>
 November 2023
